@@ -1,0 +1,5 @@
+/* eslint-disable */
+const data = [{"wallet":{"id":941,"ravanaServerId":"RAVANA:EON-dev","walletType":"GATEWAY_WALLET","kuberaAccountId":1455060,"transportId":null,"walletId":"EON-67LZD-HXEVR-Q5DMQ","walletTag":"0"},"balanceEntries":[]},{"wallet":{"id":942,"ravanaServerId":"RAVANA:EON-dev","walletType":"FEE_WALLET","kuberaAccountId":1455060,"transportId":null,"walletId":"EON-MP278-FZNXF-UH7NP","walletTag":"0"},"balanceEntries":[{"currency":"EUR","transportId":"RAVANA:EON-dev=DEPOSITORY:dev=ColorCoin=EUR","amount":"0.01000000000000000000"},{"currency":"BTC","transportId":"RAVANA:EON-dev=DEPOSITORY:dev=ColorCoin=BTC","amount":"0.00002241000000000000"}]},{"wallet":{"id":943,"ravanaServerId":"RAVANA:EON-dev","walletType":"SAVINGS_WALLET","kuberaAccountId":1455060,"transportId":null,"walletId":"EON-YP9QF-LWVZU-9UXGP","walletTag":"0"},"balanceEntries":[{"currency":"EUR","transportId":"RAVANA:EON-dev=DEPOSITORY:dev=ColorCoin=EUR","amount":"1200.00000000000000000000"}]}];
+
+export default data;
+/* eslint-enable */

@@ -1,0 +1,17 @@
+.table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+.tableRow:not(:last-of-type) {
+  border-bottom: 1px solid black;
+}
+
+.tableCell {
+  padding: 8px;
+}
+
+.tableCell:first-of-type {
+  padding-right: 16px;
+  border-right: 1px solid black;
+}
